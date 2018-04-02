@@ -14,7 +14,7 @@ From the original documentation:
 *These signals were used to estimate variables of the feature vector for each pattern:*
 *'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.*
 
-The original variable names are used in the basic code. In the tidy data set, the data names have been exapnded to make them more readable:
+The original variable names are used in the basic code. In the tidy data set, the data names have been expanded to make them more readable:
 
     Original, as described above:     Tidy data set modification
 
