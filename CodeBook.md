@@ -16,7 +16,7 @@ From the original documentation:
 
 The original variable names are used in the basic code. In the tidy data set, the data names have been exapnded to make them more readable:
 
-Original, as described above:     Tidy data set modification
+    Original, as described above:     Tidy data set modification
 
     t                                  time
     gyro                               gyroscope
