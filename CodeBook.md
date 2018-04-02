@@ -18,9 +18,9 @@ The original variable names are used in the basic code. In the tidy data set, th
 
 Original, as described above:     Tidy data set modification
 
-t                                  time
-gyro                               gyroscope
-acc                                acceleration
-jerk                               jerk
-f                                  fft
--x, -y -z                          remain the same
+    t                                  time
+    gyro                               gyroscope
+    acc                                acceleration
+    jerk                               jerk
+    f                                  fft
+    -x, -y -z                          remain the same
