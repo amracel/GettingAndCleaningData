@@ -1,4 +1,4 @@
-# GettingAndCleaningData
+# Getting and Cleaning Data
 
 This project was created as part of the Getting and Cleaning Data course from Johns Hopkins University via Coursera. The purpose of the project is to input 'real life' data, clean it, and present it in a 'tidy' format. The goals of the project are to:
 
