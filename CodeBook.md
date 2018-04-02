@@ -23,4 +23,13 @@ The original variable names are used in the basic code. The first table has thin
     acc                                acceleration
     jerk                               jerk
     f                                  fft
-    -x, -y, -z, mean, std              remain the same                            
+    -x, -y, -z, mean, std              remain the same  
+    
+Two other variables: subject and activity, are also included. The subject refers to the participant in the original study. The activities are the following: 
+
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
